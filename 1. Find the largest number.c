@@ -15,9 +15,4 @@ int main(){
         printf("%d is the larger number",tn);
 
     return 0;
-
-
-
-
-
 }
