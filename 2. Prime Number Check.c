@@ -17,7 +17,4 @@ int main(){
         printf("Number is a Prime");
 
     return 0;
-
-
-
 }
