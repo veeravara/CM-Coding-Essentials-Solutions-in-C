@@ -1,1 +1,1 @@
- #Solutions for the Coding Essentials course by Coding Minutes
+# Solutions for the Coding Essentials course by Coding Minutes
