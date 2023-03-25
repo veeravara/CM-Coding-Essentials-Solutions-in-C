@@ -1,1 +1,1 @@
-Coding Minutes Logic Building Beginner Assignment Solutions
+ solutions for the Coding Essentials course by Coding Minutes
