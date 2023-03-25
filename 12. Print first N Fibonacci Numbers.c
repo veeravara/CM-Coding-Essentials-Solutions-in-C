@@ -11,7 +11,7 @@ int main(){
     int secondNumber=1;
     int thirdNumber=firstNumber+secondNumber;
     printf("%d,%d,%d,",firstNumber,secondNumber,thirdNumber);
-    for(int i=1;i<=n;i++){
+    for(int i=1;i<=(n-3);i++){
     firstNumber=secondNumber;
     secondNumber=thirdNumber;
     thirdNumber=firstNumber+secondNumber;
