@@ -1,5 +1,5 @@
 /* WAP to print first N Fibonacci numbers.
-a series of numbers in which each number( Fibonacci number )is the sum of the two preceding numbers.
+the Fibonacci sequence is a sequence in which each number is the sum of the two preceding ones
 The simplest is the series 1, 1, 2, 3, 5, 8, etc.
 */
 #include<stdio.h>
