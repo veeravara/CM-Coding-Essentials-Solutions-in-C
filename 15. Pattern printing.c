@@ -1,3 +1,9 @@
+/* WAP to printf following number pattern
+1
+23
+456
+78910
+*/
 #include<stdio.h>
 int main(){
     int n;
